@@ -1,12 +1,15 @@
 # Mis proyectos en Python 🐍
 
 ¡Bienvenidos a mi repositorio!
+# Mis proyectos en Python 🐍
 
-Mi nombre es Elizabeth Figueroa y actualmente estoy formándome en programación y desarrollo de software.
+¡Bienvenidos a mi repositorio!
 
-Este espacio está dedicado a compartir mis prácticas, ejercicios y proyectos desarrollados durante mi aprendizaje de Python.
+Mi nombre es **Elizabeth Figueroa** y actualmente estoy formándome en programación y desarrollo de software.
 
-## 🚀 Tecnologías
+Este espacio reúne mis prácticas, ejercicios y proyectos desarrollados durante mi aprendizaje de Python. Mi objetivo es fortalecer mis conocimientos, desarrollar la lógica de programación y construir experiencia práctica.
+
+## 🚀 Tecnologías y herramientas
 
 - Python 3.11
 - Visual Studio Code
@@ -16,18 +19,20 @@ Este espacio está dedicado a compartir mis prácticas, ejercicios y proyectos d
 ## 📚 Proyectos
 
 ### 1. Hola Mundo
-Mi primer programa desarrollado en Python.
+
+Mi primer programa desarrollado con Python.
 
 **Conceptos practicados:**
-- Función print()
+- Función `print()`
 - Variables
-- Entrada de datos con input()
-- Operaciones básicas
+- Entrada de datos con `input()`
 
-## 🎯 Objetivo
+## 🎯 Objetivo profesional
 
 Continuar desarrollando mis habilidades en programación, fortalecer la lógica computacional y construir proyectos que me permitan crecer profesionalmente en el área tecnológica.
 
 ## 👩‍💻 Estado del repositorio
 
-En desarrollo. Se irán incorporando nuevos ejercicios y proyectos a medida que avance mi formación.
+🟢 En desarrollo.
+
+Se irán incorporando nuevos ejercicios y proyectos a medida que avance mi formación.
